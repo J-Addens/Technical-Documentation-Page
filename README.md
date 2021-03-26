@@ -1,4 +1,4 @@
-# A technical documentation page about setting up a productive envorinment at home.
+# A technical documentation page about setting up a productive environment at home.
 
 ## [Productive at Home](https://j-addens.github.io/Technical-Documentation-Page/)
 
